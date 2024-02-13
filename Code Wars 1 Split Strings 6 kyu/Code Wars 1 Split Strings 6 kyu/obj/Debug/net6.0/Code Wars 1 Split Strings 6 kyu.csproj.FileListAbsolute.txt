@@ -1,0 +1,15 @@
+C:\Users\Alexander\Desktop\Neu Git\Code-Wars\Code Wars 1 Split Strings 6 kyu\Code Wars 1 Split Strings 6 kyu\obj\Debug\net6.0\Code Wars 1 Split Strings 6 kyu.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Neu Git\Code-Wars\Code Wars 1 Split Strings 6 kyu\Code Wars 1 Split Strings 6 kyu\obj\Debug\net6.0\Code Wars 1 Split Strings 6 kyu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Neu Git\Code-Wars\Code Wars 1 Split Strings 6 kyu\Code Wars 1 Split Strings 6 kyu\obj\Debug\net6.0\Code Wars 1 Split Strings 6 kyu.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Neu Git\Code-Wars\Code Wars 1 Split Strings 6 kyu\Code Wars 1 Split Strings 6 kyu\obj\Debug\net6.0\Code Wars 1 Split Strings 6 kyu.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Neu Git\Code-Wars\Code Wars 1 Split Strings 6 kyu\Code Wars 1 Split Strings 6 kyu\obj\Debug\net6.0\Code Wars 1 Split Strings 6 kyu.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Neu Git\Code-Wars\Code Wars 1 Split Strings 6 kyu\Code Wars 1 Split Strings 6 kyu\bin\Debug\net6.0\Code Wars 1 Split Strings 6 kyu.exe
+C:\Users\Alexander\Desktop\Neu Git\Code-Wars\Code Wars 1 Split Strings 6 kyu\Code Wars 1 Split Strings 6 kyu\bin\Debug\net6.0\Code Wars 1 Split Strings 6 kyu.deps.json
+C:\Users\Alexander\Desktop\Neu Git\Code-Wars\Code Wars 1 Split Strings 6 kyu\Code Wars 1 Split Strings 6 kyu\bin\Debug\net6.0\Code Wars 1 Split Strings 6 kyu.runtimeconfig.json
+C:\Users\Alexander\Desktop\Neu Git\Code-Wars\Code Wars 1 Split Strings 6 kyu\Code Wars 1 Split Strings 6 kyu\bin\Debug\net6.0\Code Wars 1 Split Strings 6 kyu.dll
+C:\Users\Alexander\Desktop\Neu Git\Code-Wars\Code Wars 1 Split Strings 6 kyu\Code Wars 1 Split Strings 6 kyu\bin\Debug\net6.0\Code Wars 1 Split Strings 6 kyu.pdb
+C:\Users\Alexander\Desktop\Neu Git\Code-Wars\Code Wars 1 Split Strings 6 kyu\Code Wars 1 Split Strings 6 kyu\obj\Debug\net6.0\Code Wars 1 Split Strings 6 kyu.dll
+C:\Users\Alexander\Desktop\Neu Git\Code-Wars\Code Wars 1 Split Strings 6 kyu\Code Wars 1 Split Strings 6 kyu\obj\Debug\net6.0\refint\Code Wars 1 Split Strings 6 kyu.dll
+C:\Users\Alexander\Desktop\Neu Git\Code-Wars\Code Wars 1 Split Strings 6 kyu\Code Wars 1 Split Strings 6 kyu\obj\Debug\net6.0\Code Wars 1 Split Strings 6 kyu.pdb
+C:\Users\Alexander\Desktop\Neu Git\Code-Wars\Code Wars 1 Split Strings 6 kyu\Code Wars 1 Split Strings 6 kyu\obj\Debug\net6.0\Code Wars 1 Split Strings 6 kyu.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Neu Git\Code-Wars\Code Wars 1 Split Strings 6 kyu\Code Wars 1 Split Strings 6 kyu\obj\Debug\net6.0\ref\Code Wars 1 Split Strings 6 kyu.dll
